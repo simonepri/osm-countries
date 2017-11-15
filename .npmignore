@@ -11,7 +11,7 @@ codecov.yml
 #github
 .gitattributes
 .gitignore
-CODE_OF_CONDUCT.md
+code_of_conduct.md
 
 #media
 media
