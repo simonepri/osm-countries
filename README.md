@@ -1,7 +1,7 @@
 # osm-countries
 [![Travis CI](https://travis-ci.org/simonepri/osm-countries.svg?branch=master)](https://travis-ci.org/simonepri/osm-countries) [![Codecov](https://img.shields.io/codecov/c/github/simonepri/osm-countries/master.svg)](https://codecov.io/gh/simonepri/osm-countries) [![npm](https://img.shields.io/npm/dm/osm-countries.svg)](https://www.npmjs.com/package/osm-countries) [![npm version](https://img.shields.io/npm/v/osm-countries.svg)](https://www.npmjs.com/package/osm-countries) [![npm dependencies](https://david-dm.org/simonepri/osm-countries.svg)](https://david-dm.org/simonepri/osm-countries) [![npm dev dependencies](https://david-dm.org/simonepri/osm-countries/dev-status.svg)](https://david-dm.org/simonepri/osm-countries#info=devDependencies)
 
-> 🔎 Get the OSM relation id from a country code.
+> 🔎 Get the OpenStreetMap relation id from a country code.
 
 ## Install
 
