@@ -28,9 +28,7 @@ osmCountries.get('USA');
 ## get(code) ⇒ <code>string</code>
 Converts an alpha-3 iso 3166-1 code to its corrispective relation id on OSM.
 
-**Kind**: global function  
 **Returns**: <code>string</code> - OSM relation id of the given country.  
-**Access**: public  
 
 | Param | Type | Description |
 | --- | --- | --- |
@@ -42,9 +40,7 @@ Converts an alpha-3 iso 3166-1 code to its corrispective relation id on OSM.
 Returns a map from alpha-3 iso 3166-1 codes to theyr corrispective relation
 ids on OSM.
 
-**Kind**: global function  
 **Returns**: <code>object</code> - Map of all OSM relation ids.  
-**Access**: public  
 
 ## Authors
 * **Simone Primarosa** - [simonepri](https://github.com/simonepri)
