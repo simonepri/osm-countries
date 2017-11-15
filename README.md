@@ -15,10 +15,10 @@ $ npm install --save osm-countries
 const osmCountries = require('osm-countries');
 
 osmCountries.get('ITA');
-// => 365331
+// => '365331'
 
 osmCountries.get('USA');
-// => 148838
+// => '148838'
 ```
 
 ## API
